@@ -46,7 +46,7 @@ Module Main
                 End If
             Else
                 Console.Clear()
-                Console.WriteLine("Invalid Input!")
+                Console.WriteLine("Invalid Input, Please try again!")
             End If
         End While
     End Sub
