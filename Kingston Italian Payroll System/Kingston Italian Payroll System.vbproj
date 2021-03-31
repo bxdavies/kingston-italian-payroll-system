@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Kingston_Italian_Payroll_System</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>\\kcfs04\StudentHome\20008216\VSStudio\Kingston Italian Payroll System\Backup\Kingston Italian Payroll System\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <Company>Cameron Bools</Company>
+    <Authors>Cameron Bools</Authors>
+    <Copyright>©Cameron Bools 2020</Copyright>
+    <PackageIcon>money-icon-vector-21582434-removebg-preview.png</PackageIcon>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\money-icon-vector-21582434-removebg-preview.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+</Project>
